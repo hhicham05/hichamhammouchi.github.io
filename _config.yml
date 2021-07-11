@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hicham Hammouchi"
-  avatar           : "images/profile.jpg"
+  avatar           : "./images/profile.jpg"
   bio              : "PhD Candidate in Machine Learning and Cybersecurity, at Mohamed 5 University in co-direction with the International University of Rabat"
   location         : "Rabat, Morocco"
   employer         :
