@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hicham Hammouchi / <br/>PhD Candidate"
+title                    : "Hicham Hammouchi"
 title_separator          : "-"
 name                     : &name "Hicham Hammouchi"
 description              : &description "PhD Candidate"
