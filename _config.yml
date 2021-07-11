@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Hicham Hammouchi"
-  avatar           : "profile.jpg"
+  avatar           : "profile-min.jpg"
   bio              : "PhD Candidate in Machine Learning and Cybersecurity, at Mohamed 5 University in co-direction with the International University of Rabat"
   location         : "Rabat, Morocco"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=uRQGav8AAAAJ&hl=en"
+  email            : "hicham.hammouchi@uir.ac.ma"
+  researchgate     : "https://www.researchgate.net/profile/Hicham-Hammouchi"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hhicham05"
+  github           : "hichamhammouchi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/hhicham05/"
+  orcid            : "https://orcid.org/0000-0002-0572-218X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "hhicham05"
   vine             :
   weibo            :
   xing             :
