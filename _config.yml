@@ -11,7 +11,7 @@ title                    : "Hicham Hammouchi / <br/>PhD Candidate"
 title_separator          : "-"
 name                     : &name "Hicham Hammouchi"
 description              : &description "PhD Candidate"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hichamhammouchi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hhicham05/hichamhammouchi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hicham Hammouchi"
-  avatar           : "../images/profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : "PhD Candidate in Machine Learning and Cybersecurity, at Mohamed 5 University in co-direction with the International University of Rabat"
   location         : "Rabat, Morocco"
   employer         :
