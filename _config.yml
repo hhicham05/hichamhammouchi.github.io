@@ -230,7 +230,6 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  <!---
   - scope:
       path: ""
       type: portfolio
@@ -240,7 +239,6 @@ defaults:
       share: true
       comment: true
   # _talks   
-  --->
   - scope:
       path: ""
       type: talks
